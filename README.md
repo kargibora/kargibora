@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bora</h1>
-<h3 align="center">A passionate Deep Learning researcher</h3>
+<h3 align="center">A passionate Deep Learning PhD-wannabe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neroxn&label=Profile%20views&color=0e75b6&style=flat" alt="neroxn" /> </p>
 
