@@ -31,8 +31,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 
----
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=neroxn&show_icons=true&locale=en" alt="neroxn" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=neroxn&" alt="neroxn" /></p>
 
