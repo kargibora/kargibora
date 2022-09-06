@@ -28,6 +28,7 @@
 
 # Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SENet : Squeeze-and-Excitation Network](https://medium.com/@kargibora/senet-squeeze-and-excitation-network-b92c108a627c?source=rss-d6e7a2f24dae------2)
 <!-- BLOG-POST-LIST:END -->
 
 
