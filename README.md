@@ -28,6 +28,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Overview on Polyline simplification algorithms](https://medium.com/@kargibora/overview-on-polyline-simplification-algorithms-cdfe5df7f2b7?source=rss-d6e7a2f24dae------2)
 - [SENet : Squeeze-and-Excitation Network](https://medium.com/@kargibora/senet-squeeze-and-excitation-network-b92c108a627c?source=rss-d6e7a2f24dae------2)
 <!-- BLOG-POST-LIST:END -->
 
