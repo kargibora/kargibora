@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NeuralExhaustion - a blog on deep learning**
 
-- 🌱 I’m currently learning **Panoptic Segmentation**
+- 🌱 I’m currently learning about **Unsupervised Learning**
 
 - 👯 I’m looking to collaborate on **any research project related to my interesets**
 
