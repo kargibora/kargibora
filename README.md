@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neroxn&label=Profile%20views&color=0e75b6&style=flat" alt="neroxn" /> </p>
 
-- 🔭 I’m currently working on **NeuralExhaustion - a blog on deep learning**
-
-- 🌱 I’m currently learning about **Unsupervised Learning**
+- 🌱 I’m currently learning about **Unsupervised Learning** and **Imbalanced Learning**
 
 - 👯 I’m looking to collaborate on **any research project related to my interesets**
 
-- 📝 I regularly write articles on [https://neuralexhaustion.github.io](https://neuralexhaustion.github.io)
+- 📝 I regularly write articles on [Medium](https://medium.com/@kargibora)
 
 - 💬 Ask me about **computer vision and deep learning**
 
