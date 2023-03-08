@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neroxn&label=Profile%20views&color=0e75b6&style=flat" alt="neroxn" /> </p>
 
-- 🌱 I’m currently learning about **Unsupervised Learning** and **Imbalanced Learning**
+- 🌱 I’m currently learning about **Unsupervised Learning**, **Self-supervision Learning* and **Imbalanced Learning**
 
 - 👯 I’m looking to collaborate on **any research project related to my interesets**
 
