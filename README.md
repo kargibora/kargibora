@@ -15,11 +15,9 @@
 ---
 
 - 🔬 I'm a **Research Engineer at the [ELLIS Institute Tübingen](https://ellis.eu/research/sites/institute-tubingen)**, working on the **[OpenEuroLLM](https://openeurollm.eu/)** project with a focus on the **evaluation of large language models**.
-- 🎓 MSc in Machine Learning (University of Tübingen, *with distinction*) · BSc in Computer Engineering (METU).
+- 🎓 MSc in Machine Learning (University of Tübingen) · BSc in Computer Engineering (METU).
 - 🌱 My interests are broad — lately I'm especially into **interpretability** and **language diffusion models**, and I enjoy picking up new concepts across fields.
 - 📄 Find my papers on my **[publications page](https://kargibora.github.io/publications/)**.
-- 💬 Ask me about **LLM evaluation, vision–language models, and trustworthy ML**.
-- ☕ Outside research I drink coffee in every form — and **[review the places I go](https://kargibora.github.io/coffee/)**.
 - 📫 Reach me at **kargibora@gmail.com**.
 
 ---
@@ -36,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kargibora&row=1&column=7&margin-w=8&no-bg=true&no-frame=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kargibora&theme=flat&row=1&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
 ---
