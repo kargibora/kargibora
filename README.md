@@ -24,17 +24,6 @@
 
 ---
 
-### 🧠 Selected research
-
-| Paper | TL;DR | Venue |
-|-------|-------|-------|
-| **Half-Truths Break Similarity-Based Retrieval** | CLIP-style models can be fooled by a plausible-but-wrong detail; CS-CLIP supervises caption components to fix it. | Preprint 2026 |
-| **Conformal Elo Estimation for LLM Evaluation** | Calibrated model rankings with honest, distribution-free uncertainty from LLM-judge votes. | Preprint 2026 |
-| **Self-Supervised Learning in Medical Imaging** | A systematic benchmark of 8 SSL methods across 11 medical datasets. | BMVC 2025 |
-| **Scholar Inbox** | Personalized paper recommendations for scientists, with a public 800k-rating dataset. | ACL 2025 (Demo) |
-
----
-
 ### 📊 GitHub stats
 
 <p align="center">
